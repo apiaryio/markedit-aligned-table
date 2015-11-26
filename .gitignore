@@ -1,0 +1,8 @@
+.sublime-workspace
+/coverage
+/docs
+/node_modules
+/npm-debug.log
+/tmp
+.npmrc-temp
+npmrc-temp
