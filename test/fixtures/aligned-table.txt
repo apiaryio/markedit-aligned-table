@@ -1,0 +1,36 @@
+Simple Table
+.
+| First Header  | Second Header | Third Header         |
+| :------------ | :-----------: | -------------------: |
+| First row     | Data          | Very long data entry |
+| Second row    | **Cell**      | *Cell*               |
+| Third row     | Cell that spans across two columns  ||
+.
+<table>
+<thead>
+<tr>
+<th align="left">First Header</th>
+<th align="center">Second Header</th>
+<th align="right">Third Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">First row</td>
+<td align="center">Data</td>
+<td align="right">Very long data entry</td>
+</tr>
+<tr>
+<td align="left">Second row</td>
+<td align="center"><strong>Cell</strong></td>
+<td align="right"><em>Cell</em></td>
+</tr>
+<tr>
+<td align="left">Third row</td>
+<td align="center">Cell that spans across two columns</td>
+<td align="right"></td>
+</tr>
+</tbody>
+</table>
+.
+
